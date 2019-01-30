@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fb2e2eb1db53630004eef36f29961920" sys_domain="global" table="sp_instance_link" version="3" view="advanced_icon_ink">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>913e2eb1db53630004eef36f29961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>193e2eb1db53630004eef36f29961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_11042_ail_image</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>9d3e2eb1db53630004eef36f29961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kb_article</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>153e2eb1db53630004eef36f2996197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kb_category</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>993e2eb1db53630004eef36f2996197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kb_topic</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>113e2eb1db53630004eef36f2996197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sc_category</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>953e2eb1db53630004eef36f2996197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sc_cat_item</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>1d3e2eb1db53630004eef36f2996197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sp_page</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>913e2eb1db53630004eef36f2996197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:42</sys_created_on>
+            <sys_id>193e2eb1db53630004eef36f2996197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sp_instance_link" sys_domain="global" view="f32ee2b1db53630004eef36f29961912">fb2e2eb1db53630004eef36f29961920</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sp_instance_link</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:10:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb2e2eb1db53630004eef36f29961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sp_instance_link</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Advanced Icon Link" source="x_11042_ail">40cc8a21db17230004eef36f29961992</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Advanced Icon Link">40cc8a21db17230004eef36f29961992</sys_scope>
+            <sys_update_name>sys_ui_section_fb2e2eb1db53630004eef36f29961920</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:10:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced Icon ink" name="advanced_icon_ink">f32ee2b1db53630004eef36f29961912</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
