@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sp_instance" label="Advance Icon Link" max_length="40" name="x_11042_ail_advance_icon_link" type="collection">
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+    </element>
+</database>

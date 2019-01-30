@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0b68ba31db93630004eef36f299619e6" sys_domain="global" table="x_11042_ail_advance_icon_link" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:55:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f68fa31db93630004eef36f29961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_11042_ail_advance_icon_link" name="x_11042_ail_advance_icon_link" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">0b68ba31db93630004eef36f299619e6</sys_ui_form>
+            <sys_ui_section caption="Data" display_value="Data" name="x_11042_ail_advance_icon_link" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">4b68ba31db93630004eef36f299619ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:55:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:55:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4368ba31db93630004eef36f299619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_11042_ail_advance_icon_link" name="x_11042_ail_advance_icon_link" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">0b68ba31db93630004eef36f299619e6</sys_ui_form>
+            <sys_ui_section caption="Presentation" display_value="Presentation" name="x_11042_ail_advance_icon_link" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">8368ba31db93630004eef36f299619e8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:55:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:55:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4368fa31db93630004eef36f2996190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_11042_ail_advance_icon_link" name="x_11042_ail_advance_icon_link" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">0b68ba31db93630004eef36f299619e6</sys_ui_form>
+            <sys_ui_section caption="Behavior" display_value="Behavior" name="x_11042_ail_advance_icon_link" sys_domain="global" view="0ce54027b33232007a6de81816a8dca1">8768fa31db93630004eef36f29961908</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:55:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_11042_ail_advance_icon_link</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:55:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b68ba31db93630004eef36f299619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_11042_ail_advance_icon_link</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Advanced Icon Link" source="x_11042_ail">40cc8a21db17230004eef36f29961992</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Advanced Icon Link">40cc8a21db17230004eef36f29961992</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0b68ba31db93630004eef36f299619e6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:55:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="SP Instance Config" name="sp_instance_config">0ce54027b33232007a6de81816a8dca1</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

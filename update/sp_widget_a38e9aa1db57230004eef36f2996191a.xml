@@ -10,11 +10,11 @@
     height: 250px;
     background-size: cover;
 }</css>
-        <data_table>sp_instance_link</data_table>
+        <data_table>x_11042_ail_advance_icon_link</data_table>
         <demo_data/>
         <description/>
         <docs/>
-        <field_list>sys_name,title,x_11042_ail_image,short_description</field_list>
+        <field_list>title,url,image,short_description</field_list>
         <has_preview>true</has_preview>
         <id/>
         <internal>false</internal>
@@ -31,18 +31,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-29 11:23:50</sys_created_on>
         <sys_id>a38e9aa1db57230004eef36f2996191a</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_name>DN - Advanced Icon Link</sys_name>
         <sys_package display_value="Advanced Icon Link" source="x_11042_ail">40cc8a21db17230004eef36f29961992</sys_package>
         <sys_policy/>
         <sys_scope display_value="Advanced Icon Link">40cc8a21db17230004eef36f29961992</sys_scope>
         <sys_update_name>sp_widget_a38e9aa1db57230004eef36f2996191a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-30 07:19:07</sys_updated_on>
+        <sys_updated_on>2019-01-30 07:52:51</sys_updated_on>
         <template><![CDATA[<div class="main">
 <div class='effects'>
 <div class="demo">
-          <figure class="{{options.hover_effect}}"><img class='dn-image' src="{{options.x_11042_ail_image}}" alt="example-image">
+          <figure class="{{options.hover_effect}}"><img class='dn-image' src="{{options.image}}" alt="example-image">
             <figcaption>
               <h3>{{options.title}}</h3>
               <p>{{options.short_description}}</p>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_11042_ail_advance_icon_link">
+    <x_11042_ail_advance_icon_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <image>f2997a71db93630004eef36f29961922</image>
+        <order>1</order>
+        <roles/>
+        <short_description>Sample effects</short_description>
+        <size>md</size>
+        <sp_column display_value="2">4520aee1db57230004eef36f299619b1</sp_column>
+        <sp_widget display_value="DN - Advanced Icon Link">a38e9aa1db57230004eef36f2996191a</sp_widget>
+        <sys_class_name>x_11042_ail_advance_icon_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-30 08:00:17</sys_created_on>
+        <sys_id>97897a71db93630004eef36f2996191e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Sample effects</sys_name>
+        <sys_package display_value="Advanced Icon Link" source="x_11042_ail">40cc8a21db17230004eef36f29961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Advanced Icon Link">40cc8a21db17230004eef36f29961992</sys_scope>
+        <sys_update_name>x_11042_ail_advance_icon_link_97897a71db93630004eef36f2996191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-30 08:00:40</sys_updated_on>
+        <title>Sample effects</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"hover_effect": {
+		"value": "dn-flip-horiz",
+		"displayValue": "dn-flip-horiz"
+	}
+}]]></widget_parameters>
+    </x_11042_ail_advance_icon_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=97897a71db93630004eef36f2996191e"/>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Widget" section_id="c768ba31db93630004eef36f299619d8" sys_domain="global" table="x_11042_ail_advance_icon_link" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sp_widget</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:55:20</sys_created_on>
+            <sys_id>8f68ba31db93630004eef36f299619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Widget" display_value="Widget" name="x_11042_ail_advance_icon_link" sys_domain="global" view="Default view">c768ba31db93630004eef36f299619d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:55:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Widget</caption>
+            <header>false</header>
+            <name>x_11042_ail_advance_icon_link</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-30 07:55:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c768ba31db93630004eef36f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Widget</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Advanced Icon Link" source="x_11042_ail">40cc8a21db17230004eef36f29961992</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Advanced Icon Link">40cc8a21db17230004eef36f29961992</sys_scope>
+            <sys_update_name>sys_ui_section_c768ba31db93630004eef36f299619d8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-30 07:55:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
